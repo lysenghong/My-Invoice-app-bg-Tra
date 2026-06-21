@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "changelog": "អាប់ដេតថ្មី! (New Update) 🤖 AI កាន់តែឆ្លាត៖ បន្ថែមផ្ទាំង Review មុនបញ្ចូលទិន្នន័យ, បកប្រែខ្មែរ-អង់គ្លេស, លោតពណ៌ចំណាំ និងមានប្រអប់ Search រកជំងឺបានយ៉ាងលឿន។ ✨ លឿន & ងាយស្រួល៖ អាចអូសទម្លាក់ (Drag & Drop) ឯកសារ Excel បញ្ចូលបានភ្លាមៗ និងតារាងកែទៅជាភាសាខ្មែរទាំងអស់!",
+  "urls": {
+    "automation.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/automation.cp312-win_amd64.pyd",
+    "app_core.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/app_core.cp312-win_amd64.pyd",
+    "excel_work.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/excel_work.cp312-win_amd64.pyd",
+    "ui.cp312-win_amd64.pyd": "https://raw.githubusercontent.com/lysenghong/Auto-DHIS2-App/main/ui.cp312-win_amd64.pyd"
+  }
+}
